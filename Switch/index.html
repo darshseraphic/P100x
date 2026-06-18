@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>SWITCH</title>
+</head>
+<body>
+    <style>
+
+       body{
+       background-color:white;
+       display: flex;
+       align-items: center;
+       height: 100vh;
+       justify-content: center;
+       font-family: sans-serif;
+       color:white;
+       text-align: center;
+       align-items:center;
+       transition: background-color 0.5s ease;
+       }
+
+       body.darkmode{
+        background-color:black;
+        color: white;
+       }
+       .card{
+        background-color: white;
+        color: black;
+        transition: background-color 0.5s ease, color 0.5s ease;
+       }
+
+       .card.darkmode{
+        background-color: black;
+        color:white;
+       }
+
+       button{
+        background-color: black;
+        color: white;
+        transition: background-color 0.5s ease, color 0.5s ease;
+       }
+
+       button.darkmode{
+        background-color:white ;
+        color:black;
+       }
+
+       text{
+        color: black;
+        font-family: sans-serif;
+        transition: background-color 0.5s ease, color 0.5s ease;
+       }
+
+       text.darkmode{
+        color: white;
+        font-family: sans-serif;
+       }
+
+    </style>
+    <div class="card">
+        <h1 id="text">Hello, World!</h1>
+        <button id="button">SWITCH</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
