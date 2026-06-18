@@ -19,7 +19,8 @@ Below is a directory of the components available in this repository. Educators a
 | no. | Project Name | Description / Learning Focus | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | 01 | Smooth Theme Switcher | Demystifies UI theme toggles using CSS transitions, class listing manipulation, and conditional string-swapping logic. | HTML, CSS Flexbox, JavaScript |
-| 02 | Coming Soon... | Upcoming educational component placeholder. |
+| 02 | Infinite Timer | Introduces asynchronous programming, interval loops, and conditional toggle play/pause logic. | HTML, CSS, JavaScript |
+| 03 | Coming Soon... | Upcoming educational component placeholder. | — |
 
 ### How to Use These Resources Locally
 
