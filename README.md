@@ -28,4 +28,4 @@ Students and developers can run these projects locally to experiment with the co
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/darshseraphic/Mini-project.git](https://github.com/darshseraphic/P100x.git)
+   git clone [https://github.com/darshseraphic/P100x.git](https://github.com/darshseraphic/P100x.git)
